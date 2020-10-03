@@ -8,3 +8,5 @@ I have been working quite a while with various communities in the open-source, h
 I help organizations understand, use, release, and contribute to free and open-source software in a way that’s good for both their end-users and for the community.
 
 Simplifying above, **"*I'm passionate about open source::heart:*"**
+
+> This repository is a tracker of the talks I was invited, conferences I attended, programs I participated in, mentoring, and much more.
