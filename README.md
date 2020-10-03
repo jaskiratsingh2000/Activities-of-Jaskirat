@@ -9,4 +9,10 @@ I help organizations understand, use, release, and contribute to free and open-s
 
 Simplifying above, **"*I'm passionate about open source::heart:*"**
 
-> This repository is a tracker of the talks I was invited, conferences I attended, programs I participated in, mentoring, and much more.
+> **NOTE:** This repository is a tracker of the talks I was invited, conferences I attended, programs I participated in, mentoring, and much more.
+
+### Talks
+
+| Talk Title | Supporting Links | General Comments |
+|:----------:|:----------------:|:----------------:|
+| Open Source Session - Send your first PR! | <ul><li>[Event Link](shorturl.at/afowE) <li>[Slides](https://docs.google.com/presentation/d/1Wk_JvOpeyxdh7EKd_sT9B1MrHkKcdACulbYoy39i9Rs/edit?usp=sharing) </ul> | This was a talk organized by [Women Who Code Delhi](https://www.womenwhocode.com/delhi) and [Codeuino](http://codeuino.org) where I gave a session of basic open source and introduction to the codeuino. |
