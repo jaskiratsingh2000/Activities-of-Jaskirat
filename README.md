@@ -28,4 +28,4 @@ Simplifying above, **"*I'm passionate about open source::heart:*"**
 
 | Program Name | Role | Years | Supporting Links | General Comments |
 |:------------:|:----:|:-----:|-----------------:|:----------------:|
-| Google Summer of Code | Mentor & Org Administartor | 2018, 2019, and 2020
+| Google Summer of Code | Mentor & Org Administartor | 2018, 2019, and 2020 | [Certificates of Recognition](https://drive.google.com/drive/folders/1G0chzCaMbBIcM4lriRO7WuIzXUYCkbl8?usp=sharing) | <ul><li>In 2018: Mentor for Sugar Labs organisation. Projects Mentored: [Interactive Exercises for Turtle Blocks](https://summerofcode.withgoogle.com/archive/2018/projects/5163398408962048/), and [Beginner’s Guide | Developer’s Dashboard | Sugarbot](https://summerofcode.withgoogle.com/archive/2018/projects/4721927713193984/) <li>In 2019: Mentor for SugarLabs organisation and JBoss Community. Project Mentored: [Create a Sugar dashboard](https://summerofcode.withgoogle.com/archive/2019/projects/4708014198620160/), and [Development of moules with new UI/UX](https://summerofcode.withgoogle.com/archive/2019/projects/6567045829754880/) </ul>
