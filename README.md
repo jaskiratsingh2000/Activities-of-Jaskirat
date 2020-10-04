@@ -1,5 +1,12 @@
 Hola!:wave: If you like what I do and want to hire me as a **researcher**:monocle_face:, **strategist**:writing_hand:, **community manager**:man_health_worker:, or an **open-source** human, then feel free to send your text my way through [Twitter](https://twitter.com/jaskirat626), [LinkedIn](https:\\linkedin.com/in/jaskiratsingh2000), or an [Email](mailto:juskirat2000@gmail.com).
 
+### Contents
+* [About jaskiratsingh2000](#about-jaskiratsingh2000)
+* [Talks](#talks)
+* [Interviews](#interviews)
+* [Open Source Program Engagement](#open-source-program-engagement)
+* [Failures of jaskiratsingh2000](#failures-of-jaskiratsingh2000)
+
 ### About jaskiratsingh2000
 An open source research strategist and tech diversity community management specialist, developing new, and improving existing, computer-based technologies, systems, and solutions in advanced open source ecosystems. I am more of a research person and love doing researches around the products and communities. Contributing through unique ideas is my biggest encouragement to myself. Working in the field of Research publishing, media and development of cornucopia of technologies that are inclined towards help in the learning of a better future. Being astute and sagaciously involved with open source stuff I love devoting time towards mentoring in various programs that helps build OSS/FOSS technological solutions for a better tomorrow in open-source ecosystem.
 
