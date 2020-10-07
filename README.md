@@ -5,6 +5,7 @@ Hola!:wave: If you like what I do and want to hire me as a **researcher**:monocl
 * [Talks](#talks)
 * [Interviews](#interviews)
 * [Open Source Program Engagement](#open-source-program-engagement)
+* [Blogs](#blogs)
 * [Failures of jaskiratsingh2000](#failures-of-jaskiratsingh2000)
 
 ### About jaskiratsingh2000
@@ -39,6 +40,12 @@ Simplifying above, **"*I'm passionate about open source::heart:*"**
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | Mentor & Org Administartor | 2018, 2019, and 2020 | [Certificates of Recognition](https://drive.google.com/drive/folders/1G0chzCaMbBIcM4lriRO7WuIzXUYCkbl8?usp=sharing) | <ul><li>In 2018: Mentor for [Sugar Labs](https://sugarlabs.org/) organisation.<br> **Projects Mentored:** [Interactive Exercises for Turtle Blocks](https://summerofcode.withgoogle.com/archive/2018/projects/5163398408962048/), and [Beginner’s Guide, Developer’s Dashboard with Sugarbot](https://summerofcode.withgoogle.com/archive/2018/projects/4721927713193984/) <li>In 2019: Mentor for [SugarLabs](https://sugarlabs.org/) organisation and [JBoss Community](https://www.jboss.org/).<br> **Project Mentored:** [Create a Sugar dashboard](https://summerofcode.withgoogle.com/archive/2019/projects/4708014198620160/), and [Development of moules with new UI/UX](https://summerofcode.withgoogle.com/archive/2019/projects/6567045829754880/) <li>In 2020: Mentor for [Sugar Labs](https://sugarlabs.org/) organisation and Organisation Admninistrator for [Codeuino](http://codeuino.org) under [The Terasology Foundation](https://terasology.org/) <br>**Project Mentored:** [Music Blocks Javascript Export](https://summerofcode.withgoogle.com/archive/2020/projects/5694628457611264/), [Development of Admin Management mechanism for DONUT](https://summerofcode.withgoogle.com/archive/2020/projects/5189667038691328/), and [Proposal Functionality in Donut](https://summerofcode.withgoogle.com/archive/2020/projects/5954050756968448/) </ul> |
 | [Google Code-In](https://codein.withgoogle.com/archive/) | Mentor & Org Administartor | 2017, 2018, and 2019 | [Certificates of Recognition](https://drive.google.com/drive/folders/1Kk_0ZPeP29fmc6M6PW8lYiriY_8H8mjw?usp=sharing) | <ul><li>In 2017: Mentor for [Sugar Labs](https://sugarlabs.org/) organisation. <li>In 2018: Mentored for [SugarLabs](https://sugarlabs.org/) organisation and [JBoss Community](https://www.jboss.org/).<li>In 2019: Mentor for [Sugar Labs](https://sugarlabs.org/) organisation and Organisation Admninistrator for [Codeuino](http://codeuino.org) under [The Terasology Foundation](https://terasology.org/) </ul> Created and evaluated many tasks in the field of research, design, outreach, testing, and coding *Update: This program is no more run by Google and had been archived in 2019* |
 | [Google Season of Docs](https://developers.google.com/season-of-docs) | Org Administartor | 2019 | [Proof of Enrollment](https://drive.google.com/file/d/1T21lrdi5zDObaoryvZ9v_4UAPEv8iaBW/view?usp=sharing) | I was the organisation administrator for [Open Collective](https://opencollective.com/) organisation and mentored a project - [Improve General Help Documentation](https://developers.google.com/season-of-docs/docs/2019/participants/project-opencollective) |
+
+### Blogs
+
+| Blog Title | Featured On | Blog Link | General Comments |
+|:----------:|:-----------------:|:----------------:|:----------------:|
+| How my big mistake led me to success in open source | [Opensource.com](https://opensource.com/) supported by [RedHat](https://www.redhat.com/) | [Link](https://opensource.com/article/20/9/open-source-mistake) | This blog includes my whole journey in technological world and open source from date of my entering(at age 14) to the date wearing different hats. This has been written and supported by [Matt Bromberg](https://www.linkedin.com/in/mbbroberg/) and [lauren Prichett](https://www.linkedin.com/in/hilgspritch/)
 
 ### Failures of jaskiratsingh2000
 > “If you're not prepared to be wrong, you'll never come up with anything original.” - Ken Robinson
